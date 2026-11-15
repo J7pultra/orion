@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "changelog": "Fusion Instalador + Lanzador en 1 solo archivo (Orion.exe), boton con porcentaje en vivo y barra de progreso de cristal liquido",
-  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.4/Orion.exe",
-  "setup_url": "https://github.com/J7pultra/orion/releases/download/v1.0.4/Orion.exe",
+  "version": "1.0.5",
+  "changelog": "Motor Orion nativo 100% Rust con branding completo, soporte multiversion dinamico (1.20.1, 1.21.4), correccion de icono y auto-instalacion limpia",
+  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.5/Orion.exe",
+  "setup_url": "https://github.com/J7pultra/orion/releases/download/v1.0.5/OrionSetup.exe",
   "client_url": null,
-  "sha256": "166f6209d762b712cf1c385df5447bb90fb253540ccb5806d4aea2137e0ed1fd"
+  "sha256": "3dac48e3fae0d48ce31fc367e08a3b1dbb9e116fe8cf9294867e4328c7fc8729"
 }
