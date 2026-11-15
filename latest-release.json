@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "changelog": "Mejoras de rendimiento, estabilidad y actualización de Orion Launcher.",
-  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.1/orion.exe",
+  "version": "1.0.2",
+  "changelog": "sn",
+  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.2/orion.exe",
   "client_url": null,
-  "sha256": "7020d5445ec69278b46496a555c2a029ef22fc52aef5a5f9dc9671a832d4cc57"
+  "sha256": "4c119d652be34abfe70964f9b40ee4ed97180b736b2fb61738068d0a7e8bbb66"
 }
