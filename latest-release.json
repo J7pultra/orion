@@ -1,7 +1,8 @@
 {
-  "version": "1.0.2",
-  "changelog": "sn",
-  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.2/orion.exe",
+  "version": "1.0.3",
+  "changelog": "Sistema unificado en un solo archivo universal (Orion.exe) con C-Runtime estático y compatibilidad total.",
+  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.3/Orion.exe",
+  "setup_url": "https://github.com/J7pultra/orion/releases/download/v1.0.3/Orion.exe",
   "client_url": null,
-  "sha256": "4c119d652be34abfe70964f9b40ee4ed97180b736b2fb61738068d0a7e8bbb66"
+  "sha256": "050ab23d7c133800e6217eaa58467c4b016dcfdb85606bbc1133e57522983b60"
 }
