@@ -1,6 +1,6 @@
 {
   "version": "1.0.5",
-  "changelog": "Motor Orion 100% nativo Rust con instalador universal estilo Discord (Squirrel pattern), soporte multiversion dinámico y compatibilidad total con OneDrive.",
+  "changelog": "Actualización oficial de estabilidad y corrección de errores en la instalación, accesos directos y motor nativo.",
   "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.5/Orion.exe",
   "setup_url": "https://github.com/J7pultra/orion/releases/download/v1.0.5/Orion.exe",
   "client_url": null,
