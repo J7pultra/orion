@@ -1,8 +1,8 @@
 {
   "version": "1.0.5",
-  "changelog": "Actualización oficial de estabilidad y corrección de errores en la instalación, accesos directos y motor nativo.",
+  "changelog": "Actualización oficial para corregir bugs y errores de estabilidad en la instalación y preparación del motor nativo.",
   "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.5/Orion.exe",
   "setup_url": "https://github.com/J7pultra/orion/releases/download/v1.0.5/Orion.exe",
-  "client_url": null,
-  "sha256": "afa6cb7b3bb68f798d60408bd34dc79797ecffae2bc22576b4d1cd67eacbd2ab"
+  "client_url": "https://github.com/J7pultra/orion/releases/download/v1.0.5/orion-windows-x64.zip",
+  "sha256": "f04ce85cc5a12463f03e2610618c702ede59ed5c7a605921f5b776f425819a98"
 }
