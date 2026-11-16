@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "changelog": "Actualización oficial para corrección de bugs y mejoras de estabilidad.",
-  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.6/Orion.exe",
-  "setup_url": "https://github.com/J7pultra/orion/releases/download/v1.0.6/Orion.exe",
+  "version": "1.0.8",
+  "changelog": "Actualización oficial de Orion Launcher v1.0.8.\n\n• Sistema real de instancias aisladas: 0 instancias falsas por defecto y nuevo Empty State elegante con botón '+ Crear nueva instancia'.\n• Aislamiento completo por instancia: carpetas individuales con mundos, mods y configuraciones independientes (%APPDATA%\\orion\\instances\\<id>).\n• Reparación total del botón Eliminar... y menú contextual: siempre habilitado, eliminación de archivos en disco y selección automática.\n• Red de amigos y buscador entre PCs: auto-publicación en segundo plano, eliminación definitiva del bloqueo 'Sin Registro', y confirmación de solicitudes en vivo.\n• Filtro en tiempo real para mostrar siempre 'Orion:' en la consola y registros.\n• Mejoras de contraste en el botón 'Buscar' con blanco puro (#FFFFFF).\n• Ejecutable universal único Orion.exe (sin instaladores secundarios separados).",
+  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.8/Orion.exe",
+  "setup_url": "https://github.com/J7pultra/orion/releases/download/v1.0.8/Orion.exe",
   "client_url": null,
-  "sha256": "c5812044ea5744bc9a24f53b7784a35297f0b81177c51a4bc498b1ce687a7e8b"
+  "sha256": "c2a56dea228e2f4e3bbb41c0357f18811c5e59155094647cbb9f055f9795012a"
 }
