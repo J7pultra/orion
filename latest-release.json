@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "changelog": "Orion Launcher v1.0.9: Correccion definitiva de crash os error 3 y pantalla gris al abrir instancias (enlaces dinamicos a recursos y assets), y sistema completo de solicitudes de amistad bidireccionales con estados pendientes, recibidos y confirmacion mutua.",
-  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.9/Orion.exe",
-  "setup_url": "https://github.com/J7pultra/orion/releases/download/v1.0.9/Orion.exe",
+  "version": "1.0.10",
+  "changelog": "Motor Camaleon Rust: Interfaces de epoca, texturas clasicas de JAR, fondos de tierra en mosaico, aislamiento total de instancias y compatibilidad multiversion",
+  "launcher_url": "https://github.com/J7pultra/orion/releases/download/v1.0.10/Orion.exe",
+  "setup_url": "https://github.com/J7pultra/orion/releases/download/v1.0.10/Orion.exe",
   "client_url": null,
-  "sha256": "317692aee4f599954d7022abf33739f45261501f59ae84607ac045d5d6ff70c6"
+  "sha256": "bca5a0b9cd0c9d90a1cfbf6d301f51c2c68b79d62aecce473f2d0cd5e6772b48"
 }
